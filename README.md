@@ -1,3 +1,3 @@
 # Modify this portfolio
 
-Make it your own! 
+My deployed site: https://about-me-lab5.netlify.app/
