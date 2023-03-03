@@ -77,37 +77,61 @@
     ],
     "experience": [
       {
-        "company": "DefOpenSource",
-        "title": "Front-End Developer",
-        "years": "10.2019 - present",
+        "company": "Expedia Group",
+        "title": "Financial Analyst - Intern",
+        "years": "06.2022 - 08.2022",
         "mainTech": [
-          "Angular 8/9/10"
+          "MS Excel"
         ],
         "technologies": [
-          "REST API",
-          "RxJS",
-          "JavaScript",
-          "Bootstrap",
-          "MDBootstrap",
-          "EF Core",
-          ".NET Core",
-          "SignalR",
-          "Angular Material"
+          "Power Query"
         ]
       },
       {
-        "company": "Serros Solutions",
-        "title": "Intern",
-        "years": "01.2018 - 09.2019",
+        "company": "US Army",
+        "title": "Aircraft Powertrain Repairer",
+        "years": "09.2015 - 09.2022",
         "mainTech": [
-          "Angular 7/8"
+          "Platform Maintenance Application"
         ],
         "technologies": [
-          "RxJS",
-          "Django",
-          "PHP",
-          "JavaScript",
-          "DHTMLX Gantt"
+          "MS Excel"
+        ]
+      },
+      {
+        "company": "Berben Lab - UC Davis",
+        "title": "Undergraduate Researcher",
+        "years": "07.2020 - 06.2022",
+        "mainTech": [
+          "MS Suite"
+        ],
+        "technologies": [
+          "MS Excel",
+          "MS Word"
+        ]
+      },
+      {
+        "company": "Department of Justice",
+        "title": "Operation Support Technician",
+        "years": "09.2020 - 12.2021",
+        "mainTech": [
+          "MS Suite"
+        ],
+        "technologies": [
+          "MS Excel",
+          "MS Word"
+        ]
+      },
+      {
+        "company": "Cosumnes River College",
+        "title": "Chemistry Teaching Assistant",
+        "years": "08.2018 - 12.2018",
+        "mainTech": [
+          "MS Suite"
+        ],
+        "technologies": [
+          "MS Excel",
+          "MS Word"
         ]
       }
     ]
