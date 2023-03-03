@@ -11,36 +11,32 @@
     },
     "projects": [
       {
-        "title": "Project 1",
-        "startDate": "2020",
-        "description": "Description 1.",
+        "title": "Ruthles Photography",
+        "startDate": "2023",
+        "description": "The first website I built from scratch with a team named Apathetic Mosquitoes. It was a website built for Ruth, a photographer who serves the greater Seattle area. The lay out, design, and logo were all designed from ground up.",
         "images": [
-          "images/portfolio/animal-shelter/p1.jpg",
-          "images/portfolio/animal-shelter/p2.jpg"
+          "images/portfolio/adventure/project-images/ruthless-logo.png",
+          "images/portfolio/adventure/project-images/ruthles-preview.png"
         ],
         "url": "",
         "technologies": [
           {
-            "class": "devicon-angularjs-plain",
-            "name": "Angular"
+            "class": "devicon-react-original",
+            "name": "React"
           },
           {
-            "class": "devicon-typescript-plain",
-            "name": "TypeScript"
-          },
-          {
-            "class": "devicon-csharp-plain",
-            "name": "C#"
+            "class": "devicon-javascript-plain",
+            "name": "JavaScript"
           }
         ]
       },
       {
-        "title": "Project 2",
-        "startDate": "2018",
-        "description": "Description 2. ",
+        "title": "Horned Beast",
+        "startDate": "2023",
+        "description": "A project that allows the user to vote for the image displayed. Users can also filter the images based on number of horns.",
         "images": [
-          "images/portfolio/photography/p1.jpg",
-          "images/portfolio/photography/p2.jpg"
+          "http://3.bp.blogspot.com/_DBYF1AdFaHw/TE-f0cDQ24I/AAAAAAAACZg/l-FdTZ6M7z8/s1600/Unicorn_and_Narwhal_by_dinglehopper.jpg",
+          "images/portfolio/adventure/project-images/horned-beast-preview.png"
         ],
         "url": "https://github.com",
         "technologies": [
@@ -55,8 +51,8 @@
         ]
       },
       {
-        "title": "3D Object Viewer",
-        "startDate": "2015",
+        "title": "Project 3 placehorlder",
+        "startDate": "2023",
         "description": "One of the first apps I was working on my internship. I had to develop front-end implementation for app that shows 3D models of known buildings. This was also my first project in Angular framework. I've learned a lot!",
         "images": [
           "images/portfolio/adventure/p1.jpg",
