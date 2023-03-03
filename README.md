@@ -1,8 +1,8 @@
 # Modify this portfolio
 
-My deployed site: https://about-me-lab5.netlify.app/
+[My deployed site](https://about-me-lab5.netlify.app/)
 
-## Project Checker:
+## Project Checker
 
 Number and name of feature: Initial Set up
 Estimate of time needed to complete: 30 min
@@ -25,5 +25,5 @@ Actual time needed to complete: 30min
 Number and name of feature: Skills
 Estimate of time needed to complete: 45 min
 Start time: 1410
-Finish time: 1430
-Actual time needed to complete: 20min
+Finish time: 1500
+Actual time needed to complete: 50min
