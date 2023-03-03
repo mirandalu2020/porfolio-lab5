@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Miranda Lu",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Software Developer, the finance gal who codes" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/mirandalu2020",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "LinkedIn",
+          "url": "https://www.linkedin.com/in/mirandalu2022/",
+          "class": "fab fa-linkedin"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "myProfile.png"
     },
     "skills": {
       "icons": [
