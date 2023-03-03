@@ -23,7 +23,7 @@ Finish time: 1405
 Actual time needed to complete: 30min
 
 Number and name of feature: Skills
-Estimate of time needed to complete: 60 min
+Estimate of time needed to complete: 45 min
 Start time: 1410
-Finish time: 
-Actual time needed to complete: 
+Finish time: 1430
+Actual time needed to complete: 20min
