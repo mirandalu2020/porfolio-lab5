@@ -27,3 +27,9 @@ Estimate of time needed to complete: 45 min
 Start time: 1410
 Finish time: 1500
 Actual time needed to complete: 50min
+
+Number and name of feature: Style
+Estimate of time needed to complete: 60 min
+Start time: 1700
+Finish time: 1830
+Actual time needed to complete: 90min

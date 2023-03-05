@@ -62,8 +62,8 @@ class Header extends Component {
               offColor="#baaa80"
               onColor="#353535"
               className="react-switch mx-auto"
-              width={90}
-              height={40}
+              width={50}
+              height={30}
               uncheckedIcon={
                 <span
                   className="iconify"

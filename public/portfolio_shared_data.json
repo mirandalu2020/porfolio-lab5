@@ -39,8 +39,8 @@
           "level": "95"
         },
         {
-          "name": "Angular",
-          "class": "devicon-angularjs-plain",
+          "name": "Heroku",
+          "class": "devicon-heroku-plain",
           "level": "80"
         },
         {
@@ -57,7 +57,13 @@
           "name": "MySql",
           "class": "devicon-mysql-plain",
           "level": "60"
+        },
+        {
+          "name": "MongoDB",
+          "class": "devicon-mongodb-plain",
+          "level": "60"
         }
+
       ]
     }
   }
