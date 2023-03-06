@@ -21,11 +21,11 @@ class App extends Component {
   applyPickedLanguage = (pickedLanguage, oppositeLangIconId) => {
     this.swapCurrentlyActiveLanguage(oppositeLangIconId);
     document.documentElement.lang = pickedLanguage;
-    var resumePath =
-      document.documentElement.lang === window.$primaryLanguage
-        ? `res_primaryLanguage.json`
-        : `res_secondaryLanguage.json`;
-    this.loadResumeFromPath(resumePath);
+    // var resumePath =
+    //   document.documentElement.lang === window.$primaryLanguage
+    //     ? `res_primaryLanguage.json`
+    //     : `res_secondaryLanguage.json`;
+    this.loadResumeFromPath(`res_primaryLanguage.json`);
   }
 
   swapCurrentlyActiveLanguage = (oppositeLangIconId) => {
@@ -100,7 +100,7 @@ class App extends Component {
         </Routes>
         <Footer 
           sharedBasicInfo={this.state.sharedData.basic_info}
-          applyPickedLanguage={this.applyPickedLanguage} 
+          // applyPickedLanguage={this.applyPickedLanguage} 
         />  
       </Router>
     );
